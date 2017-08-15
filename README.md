@@ -16,7 +16,7 @@ Fully functional system supporting four use-cases:
 4) Student may check exam score and feedback.
 
 https://web.njit.edu/~rp528/CS490/front/login.php
-for testing login instructor ucid:instructor, ucid:student, password:12345
+for testing login ucid:instructor, ucid:student, password:12345
 
 
 Some parts may not work due to some changes.
