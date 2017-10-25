@@ -1,6 +1,6 @@
 # CS490
 CS490 Project: Online Exam Application 
-<a href="https://web.njit.edu/~rp528/CS490/front/login.php" target="blank">Project</a>
+<a href="https://web.njit.edu/~rp528/CS490/front/login.php">Project</a>
 for testing login ucid:instructor, ucid:student, password:12345
 
 Designed and developed the application using Model View Controller architecture structured as a three-tiered client-server system.
